@@ -1,0 +1,10 @@
+G:\project\MainClient\Excel\BatchExcelOpetateTool\bin\Debug\BatchExcelOpetateTool.exe.config
+G:\project\MainClient\Excel\BatchExcelOpetateTool\bin\Debug\BatchExcelOpetateTool.exe
+G:\project\MainClient\Excel\BatchExcelOpetateTool\bin\Debug\BatchExcelOpetateTool.pdb
+G:\project\MainClient\Excel\BatchExcelOpetateTool\obj\Debug\BatchExcelOpetateTool.csproj.AssemblyReference.cache
+G:\project\MainClient\Excel\BatchExcelOpetateTool\obj\Debug\BatchExcelOpetateTool.Properties.Resources.resources
+G:\project\MainClient\Excel\BatchExcelOpetateTool\obj\Debug\BatchExcelOpetateTool.csproj.GenerateResource.cache
+G:\project\MainClient\Excel\BatchExcelOpetateTool\obj\Debug\BatchExcelOpetateTool.csproj.CoreCompileInputs.cache
+G:\project\MainClient\Excel\BatchExcelOpetateTool\obj\Debug\BatchExcelOpetateTool.exe
+G:\project\MainClient\Excel\BatchExcelOpetateTool\obj\Debug\BatchExcelOpetateTool.pdb
+G:\project\MainClient\Excel\BatchExcelOpetateTool\obj\Debug\BatchExcelOpetateTool.MainForm.resources
